@@ -10,7 +10,7 @@ I am a passionate **Cybersecurity Analyst** specializing in threat detection, pe
 With a strong background in ethical hacking and network security, I enjoy protecting systems and learning the latest security trends.
 
 ## Skills & Tools
-- 🔐 **Security Tools:** Wireshark, Metasploit, Burp Suite, Nmap, Splunk  
+- 🔐 **Security Tools:** Wireshark, Metasploit, Burp Suite, Nmap, Splunk, Suricata , snort.
 - 💻 **Languages:** Python, Bash, PowerShell, SQL  
 - 🛡️ **Areas:** Penetration Testing, Vulnerability Assessment, Digital Forensics, SOC Analyst  
 - ☁️ **Platforms:** Azure Security, Linux  
